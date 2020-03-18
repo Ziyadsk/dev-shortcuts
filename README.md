@@ -1,29 +1,37 @@
 # dev-shortcuts
 *set of shortcuts that makes a better development experience*
 
+[Table of content]()
+- [Browsers]()
+    - [Google Chrome]()
+- OS
+    - [MacOS]()
+
+- Text Editors
+    - [VIM]()
+    - [VSCODE]()
+    
+
 <br>
 
-## MacOS
+### Note 
+most of the shortcuts containing the mac command (⌘) key have their equivalent on windows and linux as the (ctrl) key .
 
-### Text Editors
+* ### Text Editors
+    <a name="vscode"></a>
+   * ####  VSCode
 
-#### - VSCode
+        shortcut | description
+        ---------|-----------------------
+        ` ⌘ + ↑ ` | go to the top of the page
+        ` ⌘ + ↓ ` | go to the bottom of the page
+        ` ⌘ + K  ⌘ + T ` | set the theme
+        ` ⌘ + B `| opens <explorer>
+        ` ⌘ + a ` | select all text
+        ` ⌘ + c ` | copy
+        ` ⌘ + v ` | paste
+        ` ⌘ + x ` | cut
 
-` ⌘ + ↑ `  go to the top of the page
-
-` ⌘ + ↓ ` go to the bottom of the page
-
-` ⌘ + K  ⌘ + T ` set the theme
-
-` ⌘ + B ` opens <explorer>
-
-` ⌘ + a ` select all text
-
-` ⌘ + c ` copy
-
-` ⌘ + v ` paste
-
-` ⌘ + x ` cut
 
 
 
