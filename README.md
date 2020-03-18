@@ -1,39 +1,65 @@
 # dev-shortcuts
 *set of shortcuts that makes a better development experience*
 
-[Table of content]()
-- [Browsers](browsers)
+> [Table of content]()
+* [Browsers](browsers)
     - [Google Chrome](#google-chrome)
-- OS
+* [OS]()
     - [MacOS](#macos)
-
-- Text Editors
-    - [VIM](#vim)
-    - [VSCODE](#vscode)
-    
-
+* [Text Editors](#text-editors)
+    - [Vim](#vim)
+    - [Visua studio code](#vscode)
 <br>
 
 ### Note 
 > *Most of the shortcuts containing the mac command (⌘) key have their equivalent on windows and linux as the (ctrl) key*.
+<a name="browsers"></a>
+### Browsers
+ <a name="google-chrome"></a>
+*   #### Google Chrome
+      shortcut | description
+    ---------|-----------------------
+    ` ⌘ + t` |  opens up a new tab
 
-* ### Text Editors
-    <a name="vscode"></a>
-   * ####  VSCode
+<a name="macos"></a>
+### MacOS
 
-        shortcut | description
-        ---------|-----------------------
-        ` ⌘ + ↑ ` | go to the top of the page
-        ` ⌘ + ↓ ` | go to the bottom of the page
-        ` ⌘ + K  ⌘ + T ` | set the theme
-        ` ⌘ + B `| opens <explorer>
-        ` ⌘ + a ` | select all text
-        ` ⌘ + c ` | copy
-        ` ⌘ + v ` | paste
-        ` ⌘ + x ` | cut
-        ` ⌘ + f ` | find 
-        ` ⌘ + p ` | switch between files quickly
+shortcut | description
+---------|-----------------------
+` ⌘ SPACE` | opens spotlight
+` ⌘ TAB` | switch between open windows
+` ⌘ ⌥ SPACE` | search finder
+ 
 
+### Text Editors
+<a name="vscode"></a>
+* ####  VSCode
+
+    shortcut | description
+    ---------|-----------------------
+    ` ⌘  ↑ ` | go to the top of the page
+    ` ⌘  ↓ ` | go to the bottom of the page
+    ` ⌘  ← ` | go the begining of the line
+    ` ⌘  → ` | go the end of the line
+    ` ⌘  K  ⌘  T ` | set the theme
+    ` ⌘  B `| opens the side bar
+    ` ⌘  a ` | select all text
+    ` ⌘  SHIFT → ` | select from cursor to the end of the line
+    ` ⌘  SHIFT ` | select from cursor the begining of the line
+    ` ⌥ SHIFT → `| select from cursor to the right word by word
+    ` ⌥ SHIFT ←`| select from cursor to the left word by word
+    `SHIFT → `| select from the right, one character at the time
+    `SHIFT ← `| select from the left, one character at the time
+    ` ⌘  c ` | copy
+    ` ⌘  v ` | paste
+    ` ⌘  x ` | cut
+    ` ⌘  f ` | find 
+    ` ⌘  p ` | switch between files quickly
+    ` ⌘  shift + p ` | switch between files quickly
+    ` ⌘  o ` | open a file
+    ` ⌘  n ` | new blank window
+    ` ⌘  w ` | close file
+    ` ⌘  q ` | quit vscode
 
 
     <a name="vim"></a>
@@ -63,9 +89,6 @@
             |`:q` | quit
             |`:w` | write 
             |`:e` | opens a file
-            |`:color <colorscheme>` | to change colorschemes
+            |`:color <colorscheme>` | to change colorschemes    
 
- <a name="browsers"></a>
-### Browser
- <a name="google-chrome"></a>
-*   #### Google Chrome
+            
