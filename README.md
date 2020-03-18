@@ -2,20 +2,20 @@
 *set of shortcuts that makes a better development experience*
 
 [Table of content]()
-- [Browsers]()
-    - [Google Chrome]()
+- [Browsers](browsers)
+    - [Google Chrome](#google-chrome)
 - OS
-    - [MacOS]()
+    - [MacOS](#macos)
 
 - Text Editors
-    - [VIM]()
-    - [VSCODE]()
+    - [VIM](#vim)
+    - [VSCODE](#vscode)
     
 
 <br>
 
 ### Note 
-most of the shortcuts containing the mac command (⌘) key have their equivalent on windows and linux as the (ctrl) key .
+> *Most of the shortcuts containing the mac command (⌘) key have their equivalent on windows and linux as the (ctrl) key*.
 
 * ### Text Editors
     <a name="vscode"></a>
@@ -31,38 +31,41 @@ most of the shortcuts containing the mac command (⌘) key have their equivalent
         ` ⌘ + c ` | copy
         ` ⌘ + v ` | paste
         ` ⌘ + x ` | cut
+        ` ⌘ + f ` | find 
+        ` ⌘ + p ` | switch between files quickly
 
 
 
+    <a name="vim"></a>
+    *  #### - VIM
+        *   #####  keybindings
 
-#### - VIM
-#####  keybindings
+            shortcut | description
+            ---------|-----------------------
+            | text | description  
+            | `i` | insert and edit text 
+            `I` | insert at the beginning of the line 
+            `o` | insert in the next line
+            `O` | insert in the before line
+            `dd` | delete line
+            `<number> dd` | delete `<number>`  of lines 
+            `yy` | copy line
+            `p` | paste line
+            `u` | undo
+            `w` | go to next word
+            `gg` | go to the first line
+            `G` | go the last line
+            `<number> G` | go the `<number>` line 
 
-|---|------------- |
-| text | description | 
-| `i` | insert and edit text | 
-`I` | insert at the beginning of the line 
-`o` : insert in the next line
-`O` : insert in the before line
-`dd` : delete line
-`<number> dd` : delete `<number>`  of lines 
-`yy` : copy line
-`p` : paste line
-`u` : undo
-`w` : go to next word
-`gg` : go to the first line
-`G` : go the last line
-`<number> G` : go the `<number>` line 
+        *   ##### commands
+            shortcut | description
+            ---------|-----------------------
+            |`:q` | quit
+            |`:w` | write 
+            |`:e` | opens a file
+            |`:color <colorscheme>` | to change colorschemes
 
-##### commands
-`:q` quit
-
-`:w` write 
-
-`:e` opens a file
-
-`:color <colorscheme>` : to change colorschemes
-
-
+ <a name="browsers"></a>
 ### Browser
-#### Google Chrome
+ <a name="google-chrome"></a>
+*   #### Google Chrome
