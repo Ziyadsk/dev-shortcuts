@@ -1,8 +1,8 @@
 # dev-shortcuts
 *set of shortcuts that makes a better development experience*
 
-> [Table of content]()
-* [Browsers](browsers)
+> [Table of content](#)
+* [Browsers](#browsers)
     - [Google Chrome](#google-chrome)
 * [OS]()
     - [MacOS](#macos)
@@ -63,32 +63,33 @@ shortcut | description
 
 
     <a name="vim"></a>
-    *  #### - VIM
-        *   #####  keybindings
+*  #### VIM
+    #####  keybindings
 
-            shortcut | description
-            ---------|-----------------------
-            | text | description  
-            | `i` | insert and edit text 
-            `I` | insert at the beginning of the line 
-            `o` | insert in the next line
-            `O` | insert in the before line
-            `dd` | delete line
-            `<number> dd` | delete `<number>`  of lines 
-            `yy` | copy line
-            `p` | paste line
-            `u` | undo
-            `w` | go to next word
-            `gg` | go to the first line
-            `G` | go the last line
-            `<number> G` | go the `<number>` line 
+    shortcut | description
+    ---------|-----------------------
+    | text | description  
+    | `i` | insert and edit text 
+    `I` | insert at the beginning of the line 
+    `o` | insert in the next line
+    `O` | insert in the before line
+    `dd` | delete line
+    `<number> dd` | delete `<number>`  of lines 
+    `yy` | copy line
+    `p` | paste line
+    `u` | undo
+    `w` | go to next word
+    `gg` | go to the first line
+    `G` | go the last line
+    `<number> G` | go the `<number>` line 
 
-        *   ##### commands
-            shortcut | description
-            ---------|-----------------------
-            |`:q` | quit
-            |`:w` | write 
-            |`:e` | opens a file
-            |`:color <colorscheme>` | to change colorschemes    
+    ##### commands
+    
+    shortcut | description
+    ---------|-----------------------
+    |`:q` | quit
+    |`:w` | write 
+    |`:e` | opens a file
+    |`:color <colorscheme>` | to change colorschemes    
 
             
