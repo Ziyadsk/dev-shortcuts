@@ -19,7 +19,8 @@
 *   #### Google Chrome
       shortcut | description
     ---------|-----------------------
-    ` ⌘ + t` |  opens up a new tab
+    ` ⌘  t` |  opens up a new tab
+    ` ⌘  SHIFT R ` | refresh the web page 
 
 <a name="macos"></a>
 ### MacOS
