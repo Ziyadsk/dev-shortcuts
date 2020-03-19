@@ -21,7 +21,8 @@
     ---------|-----------------------
     ` ⌘  t` |  opens up a new tab
     ` ⌘  SHIFT R ` | refresh the web page 
-
+    ` ⌘  p ` | prints a web page  
+	
 <a name="macos"></a>
 ### MacOS
 
@@ -30,7 +31,20 @@ shortcut | description
 ` ⌘ SPACE` | opens spotlight
 ` ⌘ TAB` | switch between open windows
 ` ⌘ ⌥ SPACE` | search finder
- 
+` ⌘  SHIFT n ` | creates a new folder
+` ⌘  p` | prints a document 
+` ⌘  h` | hides the focused window  
+` ⌘  c` | copy the selected item 
+` ⌘  v` | paste the selected item 
+` ⌘  o` | opens thethe selected item  
+` ⌘  SHIFT d` | open desktop folder in finder
+` ⌘  SHIFT h` | open home folder in finder
+` ⌘  SHIFT o` | open the document desktop folder in finder
+` SPACE` | preview the selected item 
+` ⌘  SHIFT 3 `| takes a fullscreen screenshot 
+` ⌘  SHIFT 5 ` | a screenshot menu with more features than above
+` ⌘  SHIFT  q` | logs out of the account
+` ⌘  CTRL q` | locks the screen 
 
 ### Text Editors
 <a name="vscode"></a>
