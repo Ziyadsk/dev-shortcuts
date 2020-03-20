@@ -22,6 +22,7 @@
     ` ⌘  t` |  opens up a new tab
     ` ⌘  SHIFT R ` | refresh the web page 
     ` ⌘  p ` | prints a web page  
+    ` ⌘  SHIFT t ` | opens up the last closed tab
 	
 <a name="macos"></a>
 ### MacOS
@@ -33,7 +34,8 @@ shortcut | description
 ` ⌘ ⌥ SPACE` | search finder
 ` ⌘  SHIFT n ` | creates a new folder
 ` ⌘  p` | prints a document 
-` ⌘  h` | hides the focused window  
+` ⌘  m` | minimize the focused 
+` ⌘  h` | hides the focused app  
 ` ⌘  c` | copy the selected item 
 ` ⌘  v` | paste the selected item 
 ` ⌘  o` | opens thethe selected item  
@@ -44,7 +46,10 @@ shortcut | description
 ` ⌘  SHIFT 3 `| takes a fullscreen screenshot 
 ` ⌘  SHIFT 5 ` | a screenshot menu with more features than above
 ` ⌘  SHIFT  q` | logs out of the account
-` ⌘  CTRL q` | locks the screen 
+` ⌘  CTRL q` | locks the screen
+` FN CTRL 3` | Access the dock 
+` ⌘  ⌥  d` | show/hide the dock
+ 
 
 ### Text Editors
 <a name="vscode"></a>
