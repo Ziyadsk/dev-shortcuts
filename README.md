@@ -6,6 +6,7 @@
     - [Google Chrome](#google-chrome)
 * [OS]()
     - [MacOS](#macos)
+* [Terminals](#terminals)
 * [Text Editors](#text-editors)
     - [Vim](#vim)
     - [Visua studio code](#vscode)
@@ -49,7 +50,21 @@ shortcut | description
 ` ⌘  CTRL q` | locks the screen
 ` FN CTRL 3` | Access the dock 
 ` ⌘  ⌥  d` | show/hide the dock
- 
+
+<a name="terminals"></a>
+
+### Terminals
+
+shortcut | description
+---------|------------
+`CRTL a` | go the beginning of the line
+`CRTL l` | clears the screen
+`CRTL h` | deletes one char
+`CRTL w` | deletes one word
+`CRTL q` | deletes all the line
+`CRTL y` | undo last action
+`CRTL e` | go to the end of the line
+`CRTL a` | go to the beginig of the line
 
 ### Text Editors
 <a name="vscode"></a>
