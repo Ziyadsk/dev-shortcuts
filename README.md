@@ -90,7 +90,7 @@ shortcut | description
     ` ⌘  x ` | cut
     ` ⌘  f ` | find 
     ` ⌘  p ` | switch between files quickly
-    ` ⌘  shift + p ` | switch between files quickly
+    ` ⌘  shift + p ` | opens up the command palette
     ` ⌘  o ` | open a file
     ` ⌘  n ` | new blank window
     ` ⌘  w ` | close file
