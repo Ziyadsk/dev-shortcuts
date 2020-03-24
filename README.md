@@ -37,12 +37,15 @@ shortcut | description
 ` ⌘  p` | prints a document 
 ` ⌘  m` | minimize the focused 
 ` ⌘  h` | hides the focused app  
+` ⌘  ↓` | opens the selected item 
+` ⌘  o` | opens the selected item 
 ` ⌘  c` | copy the selected item 
 ` ⌘  v` | paste the selected item 
-` ⌘  o` | opens thethe selected item  
+`CTRL ⌘ SPACE` | opens us the emoji menu 
 ` ⌘  SHIFT d` | open desktop folder in finder
 ` ⌘  SHIFT h` | open home folder in finder
-` ⌘  SHIFT o` | open the document desktop folder in finder
+` ⌘  SHIFT o` | open the document  folder in finder
+` ⌘  SHIFT r` | open the airdrop menu
 ` SPACE` | preview the selected item 
 ` ⌘  SHIFT 3 `| takes a fullscreen screenshot 
 ` ⌘  SHIFT 5 ` | a screenshot menu with more features than above
