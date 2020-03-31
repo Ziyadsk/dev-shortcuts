@@ -120,7 +120,10 @@ shortcut | description
     `gg` | go to the first line
     `G` | go the last line
     `<number> G` | go the `<number>` line 
-
+    `f char>` | go the first iteration of the char on the line
+    `CRTL W S` | split the window horizontaly 
+    `CRTL W V` | split the window vertically
+		
     ##### commands
     
     shortcut | description
@@ -129,5 +132,4 @@ shortcut | description
     |`:w` | write 
     |`:e` | opens a file
     |`:color <colorscheme>` | to change colorschemes    
-
-            
+           
