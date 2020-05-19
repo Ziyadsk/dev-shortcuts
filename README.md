@@ -93,7 +93,9 @@ shortcut | description
     ` ⌘  x ` | cut
     ` ⌘  f ` | find 
     ` ⌘  p ` | switch between files quickly
-    ` ⌘  shift + p ` | opens up the command palette
+    ` ⌘  shift p ` | opens up the command palette
+    ` ⌘  shift o ` | goto symbol
+    ` ⌘  k  z ` | toggle zen mode
     ` ⌘  o ` | open a file
     ` ⌘  n ` | new blank window
     ` ⌘  w ` | close file
