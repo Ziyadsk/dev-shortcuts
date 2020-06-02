@@ -113,7 +113,10 @@ shortcut | description
     `I` | insert at the beginning of the line 
     `o` | insert in the next line
     `O` | insert in the before line
+    `a` | insett after a character
+    `A` | insert at the end of the line 
     `dd` | delete line
+    `d$` | delete to the end of the line
     `<number> dd` | delete `<number>`  of lines 
     `yy` | copy line
     `p` | paste line
@@ -125,6 +128,7 @@ shortcut | description
     `f char>` | go the first iteration of the char on the line
     `CRTL W S` | split the window horizontaly 
     `CRTL W V` | split the window vertically
+    `%` | jump between brackets in scope 
 		
     ##### commands
     
